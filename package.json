@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npx browser-sync -w"
+  },
+  "dependencies": {
+    "browser-sync": "^2.29.3"
+  }
+}
